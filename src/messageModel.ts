@@ -1,9 +1,8 @@
 'use strict'
 
-/*
 import { Sequelize } from 'sequelize-typescript'
 
-import sequelize from 'helpers/sequelize'
+import sequelize from 'sequelize'
 // console.log(Sequelize.DataTypes)
 const Message = sequelize.define('message', {
   id: { type: Sequelize.DataTypes.BIGINT(11), primaryKey: true, autoIncrement: true },
@@ -12,4 +11,3 @@ const Message = sequelize.define('message', {
 })
 
 export default Message
-*/

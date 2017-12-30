@@ -1,7 +1,7 @@
 'use strict'
 
 import { Sequelize } from 'sequelize-typescript'
-/*
+
 const sequelize: any = new Sequelize({
   database: process.env.DB_NAME,
   dialect: process.env.DB_DIALECT,
@@ -14,5 +14,5 @@ const sequelize: any = new Sequelize({
     freezeTableName: process.env.DB_DEFINE_freezeTableName === 'true'
   }
 })
+
 export default sequelize
-*/
